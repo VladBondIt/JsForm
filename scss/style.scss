@@ -1,1 +1,8 @@
 @import "_nullstyle.scss";
+
+body {
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
